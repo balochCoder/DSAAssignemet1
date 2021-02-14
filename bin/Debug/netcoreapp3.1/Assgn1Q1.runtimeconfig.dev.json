@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/balochcoder/.dotnet/store/|arch|/|tfm|",
+      "/home/balochcoder/.nuget/packages"
+    ]
+  }
+}
